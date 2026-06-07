@@ -1,5 +1,5 @@
 <udm.DeploymentPackage version="BUILD_VERSION" application="Petclinic/petclinic-app">
     <deployables>
-        <file.File name="petclinic-app" file="spring-petclinic-4.0.0-SNAPSHOT.jar" targetPath="/srv/appli">
+        <file.File name="petclinic-app" file="spring-petclinic-4.0.0-SNAPSHOT.jar" targetPath="/srv/appli" />
     </deployables>
 </udm.DeploymentPackage>
